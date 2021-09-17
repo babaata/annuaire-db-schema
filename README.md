@@ -14,3 +14,6 @@ Tafsir
 Harouna
 Ibrahima Sory
 Kabassi
+
+# Schema
+![schema db](https://github.com/babaata/annuaire-db-schema/raw/main/babaata.png)
